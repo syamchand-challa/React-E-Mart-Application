@@ -25,9 +25,9 @@ Check out the live version of the project here:
   
 
 ## 🧠 Tech Stack
-**Frontend:** ReactJS, Vite, React Router DOM, CSS3  
-**State Management:** React Hooks 
-**Version Control:** Git & GitHub 
+Frontend: ReactJS, Vite, React Router DOM, CSS3  
+State Management: React Hooks 
+Version Control: Git & GitHub 
 
 ## 📸 Project Screenshots & Demo
 
