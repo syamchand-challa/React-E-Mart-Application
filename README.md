@@ -79,6 +79,7 @@ Check out the live version of the project here:
 
 <img width="1358" height="610" alt="Screenshot 2025-10-12 120340AC" src="https://github.com/user-attachments/assets/d7dcd289-9974-447b-85db-0f4770a5e8ac" />
 
+
 ### 🛒 Add To Cart Feature
 
 **Add To Cart** functionality allows users to:
@@ -89,18 +90,21 @@ Check out the live version of the project here:
 
 <img width="1359" height="605" alt="Screenshot 2025-10-11 181636 Mobile Add to Cart Image png" src="https://github.com/user-attachments/assets/131bce49-2615-4484-95c6-519b9041c35a" />
 
+
 <img width="1358" height="623" alt="Screenshot 2025-10-11 181747Add To Cart" src="https://github.com/user-attachments/assets/f5b5c837-a950-4214-9641-2b3107a83924" />
 
+
 <img width="1331" height="607" alt="Screenshot 2025-10-11 181841Add to Cart 3" src="https://github.com/user-attachments/assets/4e7816f3-2a1b-4955-bad3-b7ec3f6040ac" />
+
 
 <img width="1344" height="619" alt="Screenshot 2025-10-11 182330Cart Items" src="https://github.com/user-attachments/assets/a6cb99e9-0a9a-4b68-9fab-245803be37e8" />
 
 
-⚙️ How to Set Up the Project Locally
+## ⚙️ How to Set Up the Project Locally
 
 Follow these simple steps to run the E-Mart React E-Commerce Web Application on your local system 
 
-1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository
 git clone https://github.com/yourusername/e-mart.git
 
 2️⃣ Navigate to the Project Folder
