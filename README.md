@@ -22,9 +22,14 @@ Check out the live version of the project here:
 - 🔗 Category-based navigation using React Router DOM
 - 👤 SignIn/SignUp UI ready for future integration
 - ⚡ Built with Vite for optimized performance
+  
 
 ## 🧠 Tech Stack
 **Frontend:** ReactJS, Vite, React Router DOM, CSS3  
 **State Management:** React Hooks 
+
+## 📸 Project Screenshots & Demo
+
+
 **Version Control:** Git & GitHub    
 
