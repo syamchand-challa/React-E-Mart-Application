@@ -24,10 +24,11 @@ Check out the live version of the project here:
 - ⚡ Built with Vite for optimized performance
   
 
-## 🧠 Tech Stack
+## 🧰 Technologies Used  
 **Frontend:** ReactJS, Vite, React Router DOM, CSS3  
 **State Management:** React Hooks 
 **Version Control:** Git & GitHub 
+
 
 
 ## 📸 Project Screenshots & Demo
