@@ -35,7 +35,7 @@ Check out the live version of the project here:
 
 ### 📸 Home Page
 
-<img width="1335" height="605" alt="Screenshot 2025-10-11 181302React E-Mart Page 1" src="https://github.com/user-attachments/assets/12e9d3bf-cd53-4f68-b939-9af4f6b29993" />
+<img  width="1335" height="605" alt="Screenshot 2025-10-11 181302React E-Mart Page 1" src="https://github.com/user-attachments/assets/12e9d3bf-cd53-4f68-b939-9af4f6b29993" />
 
 <img width="1348" height="614" alt="Screenshot 2025-10-11 173638React E-Mart Page2" src="https://github.com/user-attachments/assets/2c5dc2d8-50ed-4263-a0df-797fae26a531" />
 
