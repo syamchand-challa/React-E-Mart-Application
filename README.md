@@ -11,7 +11,7 @@ To showcase frontend development expertise in creating a scalable, responsive, a
 
 ## 🔗 Live Demo  
 Check out the live version of the project here:  
-👉 [E-Mart Live Demo](https://64e03e6fefff1a197b41aadf--fastidious-fox-a85bd7.netlify.app/)
+👉 [E-Mart Live Demo](https://react-e-mart-application.netlify.app/)
 
 ## ✨ Features
 - 🛍️ Multiple product categories (Mobiles, Computers, Watches, etc.)
